@@ -8,6 +8,9 @@
 [submodule "dowser"]
 	path = dowser
 	url = https://github.com/immcantation/dowser
+[submodule "scoper"]
+	path = scoper
+	url = https://github.com/immcantation/scoper
 [submodule "shazam"]
 	path = shazam
 	url = https://github.com/immcantation/shazam
