@@ -14,3 +14,6 @@
 [submodule "shazam"]
 	path = shazam
 	url = https://github.com/immcantation/shazam
+[submodule "tigger"]
+	path = tigger
+	url = https://github.com/immcantation/tigger
